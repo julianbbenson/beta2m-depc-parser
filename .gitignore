@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/raw/*.mzML
+data/arrays/
+data/processed/
+*.egg-info/
+.venv/
+.DS_Store
+notebooks/.ipynb_checkpoints/
+CLAUDE.md
+.claude/
